@@ -60,7 +60,9 @@
 
   <span class="flex py-[2rem] px-[1rem] items-center">
     <span class="flex flex-col items-end m-auto">
-      <span class="flex relative border py-[1.5rem] text-[18px] lg:text-[24px] px-[1.2rem]">
+      <span
+        class="flex relative border py-[1.5rem] text-[18px] lg:text-[24px] px-[1.2rem]"
+      >
         <svg
           class="absolute top-[-13px]"
           width="42"
@@ -93,7 +95,8 @@
         </svg>
       </span>
 
-      <span class="py-[1rem] border text-[16px] lg:text-[20px] px-[1.2rem] text-[#ABB2BF]"
+      <span
+        class="py-[1rem] border text-[16px] lg:text-[20px] px-[1.2rem] text-[#ABB2BF]"
         >- Dr. Who</span
       >
     </span>
@@ -112,7 +115,9 @@
           projects
         </span>
 
-        <div class="hidden lg:flex  h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]" />
+        <div
+          class="hidden lg:flex h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]"
+        />
       </span>
 
       <button class="flex">View all ~~></button>
@@ -166,81 +171,83 @@
         />
       </span>
 
-        <span class=" items-center justify-center w-full flex-wrap md:flex-row lg:flex-row flex gap-[1rem]">
+      <span
+        class=" items-center justify-center w-full flex-wrap md:flex-row lg:flex-row flex gap-[1rem]"
+      >
+        <span class="flex flex-col max-w-[15rem]">
+          <div
+            class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
+          >
+            Languages
+          </div>
+
+          <div
+            class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
+          >
+            Javascript, next, react
+          </div>
+        </span>
+
+        <span class="flex flex-col gap-[1rem]">
           <span class="flex flex-col max-w-[15rem]">
             <div
               class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
             >
-              Languages
+              Databases
             </div>
 
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              Javascript, next, react
+              Mongo, firebase
             </div>
           </span>
 
-          <span class="flex flex-col gap-[1rem]">
-            <span class="flex flex-col max-w-[15rem]">
-              <div
-                class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
-              >
-                Databases
-              </div>
+          <span class="flex flex-col max-w-[15rem]">
+            <div
+              class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
+            >
+              Other
+            </div>
 
-              <div
-                class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
-              >
-                Mongo, firebase
-              </div>
-            </span>
-
-            <span class="flex flex-col max-w-[15rem]">
-              <div
-                class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
-              >
-                Other
-              </div>
-
-              <div
-                class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
-              >
-                HTML, CSS, scss
-              </div>
-            </span>
-          </span>
-
-          <span class="flex flex-col gap-[1rem]">
-            <span class="flex flex-col max-w-[15rem]">
-              <div
-                class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
-              >
-                Tools
-              </div>
-
-              <div
-                class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
-              >
-                VSCode, Figma, Github
-              </div>
-            </span>
-
-            <span class="flex flex-col max-w-[15rem]">
-              <div
-                class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
-              >
-                Frameworks
-              </div>
-
-              <div
-                class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
-              >
-                React vue svelte next
-              </div>
-            </span>
+            <div
+              class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
+            >
+              HTML, CSS, scss
+            </div>
           </span>
         </span>
+
+        <span class="flex flex-col gap-[1rem]">
+          <span class="flex flex-col max-w-[15rem]">
+            <div
+              class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
+            >
+              Tools
+            </div>
+
+            <div
+              class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
+            >
+              VSCode, Figma, Github
+            </div>
+          </span>
+
+          <span class="flex flex-col max-w-[15rem]">
+            <div
+              class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
+            >
+              Frameworks
+            </div>
+
+            <div
+              class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
+            >
+              React vue svelte next
+            </div>
+          </span>
+        </span>
+      </span>
     </span>
   </span>
 
@@ -252,31 +259,36 @@
         about-me
       </span>
 
-      <div class="hidden lg:flex h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]" />
+      <div
+        class="hidden lg:flex h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]"
+      />
     </span>
 
-    <span class="flex flex-wrap p-[1rem] gap-[1rem] items-center justify-center lg:justify-between">
+    <span
+      class="flex flex-wrap p-[1rem] gap-[1rem] items-center justify-center lg:justify-between"
+    >
       <span class="flex flex-col max-w-[33rem] gap-[2rem]">
         <span class="flex text-[17px] flex-col gap-[1rem]">
           <p class="text-[#ABB2BF]">Hello, I'm Vinit!</p>
           <p class="text-[#ABB2BF]">
-            I'm a self-taught front-end developer based in Maharashtra, India. I
-            can develop responsive websites from scratch and raise them into
+            I'm a self-taught full-stack developer based in Maharashtra, India.
+            I can develop responsive websites from scratch and raise them into
             modern user-friendly web experiences.
           </p>
           <p class="text-[#ABB2BF]">
             Transforming my creativity and knowledge into a websites has been my
-            passion for over a year. I have been helping various clients to
+            passion for over 3 year. I have been helping various clients to
             establish their presence online. I always strive to learn about the
             newest technologies and frameworks.
           </p>
         </span>
 
-        <button
+        <a
+          href="/about-me"
           class="text-[18px] w-max border-2 border-solid border-[#C778DD] py-[0.3rem] px-[0.6rem] hover:bg-[#C778DD] hover:bg-opacity-20"
         >
           Read more ~~>
-        </button>
+        </a>
       </span>
 
       <span class="relative border-b-2 border-[#C778DD]">
@@ -310,7 +322,9 @@
       <div class="flex h-[0.1rem] w-[100vw] max-w-[10rem] bg-[#C778DD]" />
     </span>
 
-    <span class="flex flex-wrap items-center justify-center gap-[1rem] lg:justify-between p-[1rem]">
+    <span
+      class="flex flex-wrap items-center justify-center gap-[1rem] lg:justify-between p-[1rem]"
+    >
       <span class="text-[#ABB2BF] text-[17px] max-w-[25rem]">
         I'm interested in freelance opportunities. However, if you have other
         request or question, don't hesitate to contact me

@@ -98,10 +98,10 @@
               works
             </span>
 
-            <span class="flex cursor-pointer">
+            <a href="/about-me" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               about-me
-            </span>
+            </a>
 
             <a href="/contacts" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
