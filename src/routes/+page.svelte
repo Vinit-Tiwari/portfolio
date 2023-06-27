@@ -1,3 +1,7 @@
+<script>
+  import Card from "../lib/components/Card.svelte";
+</script>
+
 <span class="text-white flex flex-col">
   <span class="flex m-auto p-[2rem] max-w-[70rem] items-center justify-center">
     <span class="flex flex-col h-full gap-[2rem] items-start">
@@ -95,22 +99,30 @@
     <div class="border-t border-b border-l w-[5rem] h-[5rem]" />
   </span>
 
-  <span class="flex m-auto w-full max-w-[66rem] p-[1rem]">
-    <span class="flex gap-[1rem] gap-[1rem] items-center w-full justify-between">
-
+  <span class="flex flex-col m-auto w-full max-w-[66rem] p-[1rem]">
+    <span
+      class="flex gap-[1rem] gap-[1rem] items-center w-full justify-between"
+    >
       <span class="flex gap-[1rem] items-center">
-        
         <span class="flex text-[33px]">
           <p class="text-[#C778DD]">#</p>
           projects
         </span>
-  
-        <div class="flex h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]"/>
-      
+
+        <div class="flex h-[0.1rem] w-[100vw] max-w-[30rem] bg-[#C778DD]" />
       </span>
 
-      <button class="flex ">View all ~~></button>
+      <button class="flex">View all ~~></button>
     </span>
-    
+
+    <span class="flex p-[1rem] justify-evenly">
+      <Card />
+    </span>
+
+    <span class="flex p-[1rem]">
+      <span class="relative flex">
+
+      </span>
+    </span>
   </span>
 </span>
