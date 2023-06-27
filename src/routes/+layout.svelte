@@ -88,10 +88,10 @@
           <span
             class="md:flex lg:flex hidden w-full items-center max-w-[30rem] justify-evenly"
           >
-            <span class="flex cursor-pointer">
+            <a href="/" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               home
-            </span>
+            </a>
 
             <span class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
@@ -103,10 +103,10 @@
               about-me
             </span>
 
-            <span class="flex cursor-pointer">
+            <a href="/contacts" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               contacts
-            </span>
+            </a>
           </span>
 
           <span class="flex md:hidden lg:hidden cursor-pointer">
