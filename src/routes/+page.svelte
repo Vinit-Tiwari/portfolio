@@ -166,8 +166,7 @@
         />
       </span>
 
-      <span>
-        <span class="flex-col md:flex-row lg:flex-row flex gap-[1rem]">
+        <span class=" items-center justify-center w-full flex-wrap md:flex-row lg:flex-row flex gap-[1rem]">
           <span class="flex flex-col max-w-[15rem]">
             <div
               class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
@@ -242,7 +241,6 @@
             </span>
           </span>
         </span>
-      </span>
     </span>
   </span>
 

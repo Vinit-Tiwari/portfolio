@@ -4,7 +4,9 @@
 
 <span class="flex flex-col bg-[#282C33] w-full h-full p-0 m-0 h-full">
   <span class="flex bg-[#282C33] w-full h-full p-0 m-0 h-full">
-    <span class="hidden lg:flex fixed p-[1rem] flex-col items-center gap-[0.8rem]">
+    <span
+      class="hidden lg:flex fixed p-[1rem] flex-col items-center gap-[0.8rem]"
+    >
       <span class="w-[0.1rem] h-[7rem] bg-[#ABB2BF]" />
 
       <span>
@@ -83,7 +85,9 @@
             Vinit
           </span>
 
-          <span class="flex w-full items-center max-w-[30rem] justify-evenly">
+          <span
+            class="md:flex lg:flex hidden w-full items-center max-w-[30rem] justify-evenly"
+          >
             <span class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               home
@@ -104,6 +108,20 @@
               contacts
             </span>
           </span>
+
+          <span class="flex md:hidden lg:hidden cursor-pointer">
+            <svg
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect y="5" width="24" height="2" fill="#D9D9D9" />
+              <rect x="9" y="12" width="15" height="2" fill="#D9D9D9" />
+            </svg>
+          </span>
+
         </span>
       </nav>
 
@@ -112,8 +130,8 @@
   </span>
 
   <!-- FOOTER -->
-  <span class="flex gap-[1rem] border-t text-white flex-col  p-[1rem]">
-    <span class="flex w-full items-center justify-around ">
+  <span class="flex gap-[1rem] border-t text-white flex-col p-[1rem]">
+    <span class="flex w-full items-center justify-around">
       <span>
         <span class="flex items-center text-[20px] gap-[0.4rem]">
           <svg
@@ -189,8 +207,6 @@
       </span>
     </span>
 
-    <span class="text-[#ABB2BF] m-auto">
-      © Copyright 2023. Made by Vinit
-    </span>
+    <span class="text-[#ABB2BF] m-auto"> © Copyright 2023. Made by Vinit </span>
   </span>
 </span>
