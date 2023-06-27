@@ -1,5 +1,6 @@
 <script>
   import Card from "../lib/components/Card.svelte";
+  import projectData from "$lib/ProjectData.js";
 </script>
 
 <span class="text-white flex pt-[4rem] pb-[1rem] flex-col">
@@ -120,11 +121,11 @@
         />
       </span>
 
-      <button class="flex">View all ~~></button>
+      <a href="/projects" class="flex">View all ~~></a>
     </span>
 
     <span class="flex p-[1rem] flex-wrap gap-[1rem] justify-evenly">
-      <Card />
+      <Card {projectData}/>
     </span>
   </span>
 
