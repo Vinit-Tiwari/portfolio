@@ -67,7 +67,7 @@
         <span
           class="flex m-auto text-white items-center justify-between max-w-[90rem] p-[1rem] text-[18px]"
         >
-          <span class="flex items-center text-[20px] gap-[0.4rem]">
+          <a href="/" class="flex items-center text-[20px] gap-[0.4rem]">
             <svg
               width="16"
               height="17"
@@ -83,7 +83,7 @@
               />
             </svg>
             Vinit
-          </span>
+          </a>
 
           <span
             class="md:flex lg:flex hidden w-full items-center max-w-[30rem] justify-evenly"
@@ -121,7 +121,6 @@
               <rect x="9" y="12" width="15" height="2" fill="#D9D9D9" />
             </svg>
           </span>
-
         </span>
       </nav>
 
