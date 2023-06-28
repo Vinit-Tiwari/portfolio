@@ -21,11 +21,11 @@
         He crafts responsive websites where technologies meet creativity
       </span>
 
-      <button
+      <a href="mailto: vinittiwari1912@gmail.com"
         class="text-[20px] border-2 border-solid border-[#C778DD] py-[0.3rem] px-[0.6rem] hover:bg-[#C778DD] hover:bg-opacity-20"
       >
         Contact me !!
-      </button>
+      </a>
     </span>
 
     <span class=" flex flex-col items-center gap-[0.2rem]">
