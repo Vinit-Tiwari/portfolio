@@ -47,7 +47,7 @@
       </span>
 
       <span class="flex flex-wrap gap-[0.5rem]">
-        <Card {smallProjects} />
+        <Card projectData={smallProjects} />
       </span>
     </span>
   </span>
