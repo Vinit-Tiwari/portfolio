@@ -124,7 +124,7 @@
       <a href="/projects" class="flex">View all ~~></a>
     </span>
 
-    <span class="flex p-[1rem] flex-wrap gap-[1rem] justify-evenly">
+    <span class="flex p-[1rem] flex-wrap gap-[1rem] justify-start">
       <Card {projectData}/>
     </span>
   </span>
