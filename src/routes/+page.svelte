@@ -173,7 +173,7 @@
       </span>
 
       <span
-        class=" items-center justify-center w-full flex-wrap md:flex-row lg:flex-row flex gap-[1rem]"
+        class=" items-center px-[0.5rem] w-full flex-wrap md:flex-row lg:flex-row flex gap-[1rem]"
       >
         <span class="flex flex-col max-w-[15rem]">
           <div

@@ -168,7 +168,7 @@
 
       {#if menuSelected == true}
         <span
-          class="flex flex-col text-[22px] p-[1rem] pb-[3rem] justify-between text-white z-60 bg-[#282C33] absolute top-0 left-0 w-[100vw] h-[100vh] gap-[1rem] pt-[5rem]"
+          class="flex flex-col text-[22px] p-[1rem] pb-[5rem] justify-between text-white z-60 bg-[#282C33] absolute top-0 left-0 w-[100vw] h-[100vh] gap-[1rem] pt-[5rem]"
         >
           <span class="flex gap-[1rem] flex-col">
             <a
