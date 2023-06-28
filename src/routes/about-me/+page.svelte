@@ -1,7 +1,7 @@
 <span
-  class="text-white flex px-[3rem] pt-[4rem] w-full gap-[1rem] max-w-[66rem] m-auto pb-[1rem] flex-col"
+  class="text-white flex px-[1rem] pt-[4rem] w-full gap-[1rem] max-w-[66rem] m-auto pb-[1rem] flex-col"
 >
-  <span class="max-w-[66rem] p-[1rem] w-full m-auto">
+  <span class="max-w-[66rem] p-[0.5rem] w-full m-auto">
     <span class="flex flex-col">
       <span class="flex text-[33px]">
         <p class="text-[#C778DD]">/</p>

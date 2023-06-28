@@ -1,5 +1,5 @@
 <span
-  class="text-white flex px-[3rem] pt-[4rem] w-full gap-[1rem] max-w-[66rem] m-auto pb-[1rem] flex-col"
+  class="text-white flex px-[1rem] pt-[4rem] w-full gap-[1rem] max-w-[66rem] m-auto pb-[1rem] flex-col"
 >
   <span>
     <span class="flex gap-[1rem] items-center">
