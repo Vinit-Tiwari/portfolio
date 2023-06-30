@@ -21,7 +21,8 @@
         He crafts responsive websites where technologies meet creativity
       </span>
 
-      <a href="mailto: vinittiwari1912@gmail.com"
+      <a
+        href="mailto: vinittiwari1912@gmail.com"
         class="text-[20px] border-2 border-solid border-[#C778DD] py-[0.3rem] px-[0.6rem] hover:bg-[#C778DD] hover:bg-opacity-20"
       >
         Contact me !!
@@ -125,7 +126,7 @@
     </span>
 
     <span class="flex p-[1rem] flex-wrap gap-[1rem] justify-start">
-      <Card {projectData}/>
+      <Card {projectData} />
     </span>
   </span>
 
@@ -185,7 +186,7 @@
           <div
             class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
           >
-            Javascript, next, react
+            JavaScript, TypeScript, Python, PHP
           </div>
         </span>
 
@@ -200,7 +201,7 @@
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              Mongo, firebase
+              MongoDB, Firebase, Strapi
             </div>
           </span>
 
@@ -214,7 +215,7 @@
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              HTML, CSS, scss
+              SASS, Tailwind, Nginx, Git + Github, Husky
             </div>
           </span>
         </span>
@@ -224,13 +225,13 @@
             <div
               class="px-[1rem] py-[0.5rem] border-[#ABB2BF] border-solid border"
             >
-              Tools
+              Backend Frameworks
             </div>
 
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              VSCode, Figma, Github
+              Nodejs, Expressjs
             </div>
           </span>
 
@@ -244,7 +245,7 @@
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              React vue svelte next
+              Sveltekit, Next, React, Remix, Solid, Astro, Laravel
             </div>
           </span>
         </span>
