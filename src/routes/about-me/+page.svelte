@@ -151,11 +151,10 @@
         <span class="flex flex-wrap gap-[0.6rem] text-[16px] text-[#ABB2BF]">
           <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I like winter more than summer</p>
           <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I often bike with my friends</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">My favorite movie is The Green Mile</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I like pizza and pasta</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I was in Egypt, Poland and Turkey</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I am still in school</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I have a siblings</p>
+          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">My favorite movie is Interstellar</p>
+          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I like anime</p>
+          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I am still in college</p>
+          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I have a sibling</p>
         </span>
 
         <span class="hidden lg:flex relative w-full max-w-[25rem] h-[20rem]">
