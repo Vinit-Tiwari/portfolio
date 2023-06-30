@@ -130,7 +130,7 @@
             <div
               class="px-[1rem] py-[0.3rem] text-[#ABB2BF] border-[#ABB2BF] border-solid border"
             >
-              Sveltekit, Next, Remix, Solid, Astro, Laravel
+              Sveltekit, Next, Remix, Solid, Astro, Django, Laravel
             </div>
           </span>
         </span>
