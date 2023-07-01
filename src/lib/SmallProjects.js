@@ -1,40 +1,76 @@
 const smallProjects=[
     {
-        name: "Chota mindinator",
-        tech: "Svelte, SvelteKit, Nodejs, Expressjs, Nginx",
-        desc: "Building mindinator.com as a cognitive activation startup",
-        img: "xyz",
-        github: "",
+        name: "Todo App",
+        tech: "React, MongoDB",
+        desc: "Implemented a user-friendly Todo app.",
+        img: "./images/todo-app.jpg",
+        github: "https://github.com/Vinit-Tiwari/todo-app",
         figma: "",
         live: ""
     },
     {
-        name: "Chota Hoysala Electronics",
-        tech: "Next.js, Firebase, Reactjs, Strapi, Laravel, Husky",
-        desc: "An e-commerce website",
-        img: "xyz",
-        github: "",
+        name: "Payumoney Payment Gateway in Next.js",
+        tech: "Next.js, Payumoney",
+        desc: "Developed a PayUMoney payment gateway integration using Next.js.",
+        img: "./images/payumoney.png",
+        github: "https://github.com/Vinit-Tiwari/payumoney-payment-gateway",
         figma: "",
         live: ""
     },
     {
-        name: "Chota Space Tourism",
-        tech: "Next.js, Tailwind, Figma",
-        desc: "Space tourism multi-page website",
-        img: "xyz",
-        github: "",
+        name: "Driver Drowsiness Detection",
+        tech: "Python",
+        desc: "Designed a computer vision-based driver drowsiness detection system for real-time monitoring.",
+        img: "./images/driver-drowsiness.png",
+        github: "https://github.com/Vinit-Tiwari/driver-drowsiness-detection-system",
         live: "",
         figma: ""
     },
     {
-        name: "Chota This Portfolio",
-        tech: "Svelte, Sveltekit, Tailwind",
-        desc: "My personal portfolio",
-        img: "xyz",
-        github: "",
+        name: "Face Emotion Recognition",
+        tech: "Python",
+        desc: "Built a face emotion recognition system to accurately detect and analyze facial expressions.",
+        img: "./images/facial-emotion.jpg",
+        github: "https://github.com/Vinit-Tiwari/face-emotion-recognition",
         live: "",
         figma: ""
-    }
+    },
+    {
+        name: "IP Address Tracker",
+        tech: "Javascript, LeafletJS, IPify",
+        desc: "Developed an IP Address Tracker app that utilizes the IP Geolocation API by IPify and LeafletJS.",
+        img: "./images/ip-address-tracker.png",
+        github: "https://github.com/Vinit-Tiwari/ip_address_tracker",
+        live: "https://ip-address-tracker-azure-zeta.vercel.app/",
+        figma: ""
+    },
+    {
+        name: "Advice Generator",
+        tech: "Astro, Svelte",
+        desc: "Advice generator app using the Advice Slip API",
+        img: "./images/advice-generator.png",
+        github: "https://github.com/Vinit-Tiwari/advice-generator",
+        live: "https://advice-generator-eta-plum.vercel.app/",
+        figma: ""
+    },
+    {
+        name: "Bubble Popping Game",
+        tech: "P5.js",
+        desc: "Developed an engaging game using p5.js where players earn points by popping bubble.",
+        img: "./images/popping-game.png",
+        github: "https://github.com/Vinit-Tiwari/Popping-game",
+        live: "https://vinit-tiwari.github.io/Popping-game/",
+        figma: ""
+    },
+    {
+        name: "Scribble",
+        tech: "Javascript",
+        desc: "Created an interactive drawing application inspired by Minecraft",
+        img: "./images/scribble.png",
+        github: "https://github.com/Vinit-Tiwari/Scribble",
+        live: "https://vinit-tiwari.github.io/Scribble/",
+        figma: ""
+    },
 ]
 
 export default smallProjects

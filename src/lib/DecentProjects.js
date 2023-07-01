@@ -34,6 +34,15 @@ const decentProjects=[
         github: "https://github.com/Vinit-Tiwari/portfolio",
         live: "https://portfolio-beta-one-10.vercel.app/",
         figma: ""
+    },
+    {
+        name: "AI Chatbot for College Enquiry",
+        tech: "Python, Django",
+        desc: "Developed a college inquiry AI chatbot as part of a team for a college project.",
+        img: "./images/aichatbot.png",
+        github: "https://github.com/Vinit-Tiwari/ai-chatbot-for-college-inquiry",
+        live: "",
+        figma: ""
     }
 ]
 
