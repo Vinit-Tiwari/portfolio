@@ -1,30 +1,30 @@
 const projectData=[
     {
-        name:"Mindinator",
-        tech:"Svelte, SvelteKit, Nodejs, Expressjs, Nginx",
-        desc:"Building mindinator.com as a cognitive activation startup",
-        img:"xyz",
-        github:"",
-        figma:"",
-        live:""
+        name: "Mindinator",
+        tech: "Svelte, SvelteKit, Nodejs, Expressjs, Nginx",
+        desc: "Building mindinator.com as a cognitive activation startup",
+        img: "./images/mindinator.png",
+        github: "",
+        figma: "",
+        live: "https://mindinator.com/"
     },
     {
-        name:"Hoysala Electronics",
-        tech:"Next.js, Firebase, Reactjs, Strapi, Laravel, Husky",
-        desc:"An e-commerce website",
-        img:"xyz",
-        github:"",
-        figma:"",
-        live:""
+        name: "Hoysala Electronics",
+        tech: "Next.js, Firebase, Husky",
+        desc: "An e-commerce website",
+        img: "./images/hoysala.png",
+        github: "",
+        figma: "",
+        live: "https://hoysalaelectronics.com/"
     },
     {
-        name:"Space Tourism",
-        tech:"Next.js, Tailwind, Figma",
-        desc:"Space tourism multi-page website",
-        img: "xyz",
-        github:"",
-        live:"",
-        figma:""
+        name: "Space Tourism",
+        tech: "Next.js, Tailwind, Figma",
+        desc: "Space tourism multi-page website",
+        img: "./images/space-tourism.png",
+        github: "https://github.com/Vinit-Tiwari/space-tourism",
+        live: "https://space-tourism-sigma-five.vercel.app/",
+        figma: ""
     },
 ]
 
