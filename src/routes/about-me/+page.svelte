@@ -36,17 +36,19 @@
           class="absolute top-[70%] left-[65%] z-20"
           width="70"
           height="70"
+          alt="img"
           src="./images/Dots.svg"
         />
 
         <img
           class="absolute top-[10%] left-[5%] z-20"
           width="70"
+          alt="img"
           height="70"
           src="./images/Dots.svg"
         />
 
-        <img src="./images/profilePhoto2.svg" width="300" />
+        <img src="./images/profilePhoto2.svg" width="300" height="300" alt="img"/>
       </span>
     </span>
 
@@ -162,6 +164,7 @@
             class="absolute top-[60%] left-[15%] z-0"
             width="100"
             height="100"
+            alt="img"
             src="./images/logo1.svg"
           />
 
@@ -173,6 +176,7 @@
             class="absolute top-[10%] left-[5%] z-20"
             width="70"
             height="70"
+            alt="img"
             src="./images/Dots.svg"
           />
 
@@ -184,6 +188,7 @@
             class="absolute top-[50%] left-[55%] z-20"
             width="70"
             height="70"
+            alt="img"
             src="./images/Dots.svg"
           />
         </span>
