@@ -3,7 +3,7 @@ const decentProjects=[
         name: "Mindinator",
         tech: "Svelte, SvelteKit, Nodejs, Expressjs, Nginx",
         desc: "Building mindinator.com as a cognitive activation startup",
-        img: "./images/mindinator.png",
+        img: "./images/mindinator.webp",
         github: "",
         figma: "",
         live: "https://mindinator.com/"
@@ -12,7 +12,7 @@ const decentProjects=[
         name: "Hoysala Electronics",
         tech: "Next.js, Firebase, Husky",
         desc: "An e-commerce website",
-        img: "./images/hoysala.png",
+        img: "./images/hoysala.webp",
         github: "",
         figma: "",
         live: "https://hoysalaelectronics.com/"
@@ -21,7 +21,7 @@ const decentProjects=[
         name: "Space Tourism",
         tech: "Next.js, Tailwind, Figma",
         desc: "Space tourism multi-page website",
-        img: "./images/space-tourism.png",
+        img: "./images/space-tourism.webp",
         github: "https://github.com/Vinit-Tiwari/space-tourism",
         live: "https://space-tourism-sigma-five.vercel.app/",
         figma: ""
@@ -30,7 +30,7 @@ const decentProjects=[
         name:"This Portfolio",
         tech:"Svelte, Sveltekit, Tailwind",
         desc:"My personal portfolio",
-        img: "./images/portfolio.png",
+        img: "./images/portfolio.webp",
         github: "https://github.com/Vinit-Tiwari/portfolio",
         live: "https://portfolio-beta-one-10.vercel.app/",
         figma: ""
@@ -39,7 +39,7 @@ const decentProjects=[
         name: "AI Chatbot for College Enquiry",
         tech: "Python, Django",
         desc: "Developed a college inquiry AI chatbot as part of a team for a college project.",
-        img: "./images/aichatbot.png",
+        img: "./images/aichatbot.webp",
         github: "https://github.com/Vinit-Tiwari/ai-chatbot-for-college-inquiry",
         live: "",
         figma: ""

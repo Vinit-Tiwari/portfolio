@@ -35,19 +35,23 @@
           class="absolute top-[2rem] z-0"
           width="170"
           height="170"
+          alt="img"
           src="./images/logo1.svg"
         />
 
         <img
           rel="preload"
           class="relative z-20"
+          width="455"
+          height="455"
           src="./images/profilePhoto.svg"
-          alt="profile image"
+          alt="profileImage"
         />
 
         <img
           class="hidden lg:flex absolute z-20 top-[15rem] right-[1rem]"
           src="./images/Dots.svg"
+          alt="img"
         />
       </span>
 
@@ -146,6 +150,7 @@
         <img
           class="absolute top-[60%] left-[15%] z-0"
           width="100"
+          alt="img"
           height="100"
           src="./images/logo1.svg"
         />
@@ -158,6 +163,7 @@
           class="absolute top-[10%] left-[5%] z-20"
           width="70"
           height="70"
+          alt="img"
           src="./images/Dots.svg"
         />
 
@@ -169,6 +175,7 @@
           class="absolute top-[50%] left-[55%] z-20"
           width="70"
           height="70"
+          alt="img"
           src="./images/Dots.svg"
         />
       </span>
@@ -298,6 +305,7 @@
           class="absolute top-[70%] left-[65%] z-20"
           width="70"
           height="70"
+          alt="img"
           src="./images/Dots.svg"
         />
 
@@ -305,10 +313,11 @@
           class="absolute top-[10%] left-[5%] z-20"
           width="70"
           height="70"
+          alt="img"
           src="./images/Dots.svg"
         />
 
-        <img src="./images/profilePhoto2.svg" width="300" />
+        <img src="./images/profilePhoto2.svg" width="300" height="300" alt="img"/>
       </span>
     </span>
   </span>

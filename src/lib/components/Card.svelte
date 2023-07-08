@@ -6,7 +6,7 @@
 {#each projectData as data}
   <span class="flex flex-col max-w-[17rem]">
     <span class="border-[#ABB2BF] border-solid border p-[1rem]">
-      <img loading="lazy" src={data.img} />
+      <img loading="lazy" width="300" height="300" src={data.img} alt="img"/>
     </span>
 
     <span class="border-[#ABB2BF] border-solid border text-[#ABB2BF] p-[1rem]">

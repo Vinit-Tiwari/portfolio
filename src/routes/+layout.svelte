@@ -3,7 +3,7 @@
   let menuSelected = false;
 </script>
 
-<span class="flex flex-col bg-[#282C33] w-full h-full p-0 m-0 h-full">
+<span class="flex flex-col w-full h-full p-0 m-0 h-full">
   <span class="flex bg-[#282C33] w-full h-full p-0 m-0 h-full">
     <span
       class="hidden lg:flex fixed p-[1rem] flex-col items-center gap-[0.8rem]"
@@ -241,7 +241,7 @@
               </svg>
             </a>
 
-            <a href="#">
+            <a href="/">
               <svg
                 width="21px"
                 height="21px"
