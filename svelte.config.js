@@ -11,6 +11,9 @@ const config = {
   },
 
   preprocess: [vitePreprocess({})],
+  optimizeDeps: {
+    exclude: ['layercake']
+  },
 };
 
 export default config;
