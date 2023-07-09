@@ -4,11 +4,8 @@
 </script>
 
 {#each projectData as data, index}
-  <Saos animation={`from-left ${index*0.2}s ease-in`}>
-    <span
-      id="span"
-      class="flex flex-col max-w-[17rem]"
-    >
+  <Saos animation={`from-left ${(index + 1) * 0.2}s ease-in`}>
+    <span id="span" class="flex flex-col max-w-[17rem]">
       <span class="border-[#ABB2BF] border-solid border p-[1rem]">
         <img loading="lazy" width="300" height="300" src={data.img} alt="img" />
       </span>
