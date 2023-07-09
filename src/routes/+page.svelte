@@ -1,6 +1,7 @@
 <script>
   import Card from "../lib/components/Card.svelte";
   import projectData from "$lib/ProjectData.js";
+  import { fade, slide } from "svelte/transition";
 </script>
 
 <span class="text-white flex pt-[4rem] pb-[1rem] flex-col">
@@ -8,7 +9,7 @@
     class="flex flex-col lg:flex-row m-auto p-[2rem] max-w-[70rem] items-center justify-center"
   >
     <span class="flex flex-col h-full gap-[2rem] items-start">
-      <span class="flex gap-[0.3rem] flex-wrap text-[35px] font-medium">
+      <span class="flex gap-[0.3rem] flex-wrap text-[35px] font-medium" in:fade>
         Vinit is a
         <p class="text-[#C778DD] h-min">full-stack</p>
         <p class="text-[#C778DD] h-min">developer</p>
@@ -16,7 +17,6 @@
         <p class="text-[#C778DD] h-min">web</p>
         <p class="text-[#C778DD] h-min">designer</p>
       </span>
-
       <span class="text-[#ABB2BF] text-[20px] max-w-[30rem]">
         He crafts responsive websites where technologies meet creativity
       </span>
@@ -42,8 +42,8 @@
         <img
           rel="preload"
           class="relative z-20"
-          width="455"
-          height="455"
+          width="415"
+          height="350"
           src="./images/profilePhoto.svg"
           alt="profileImage"
         />
@@ -317,7 +317,12 @@
           src="./images/Dots.svg"
         />
 
-        <img src="./images/profilePhoto2.svg" width="300" height="300" alt="img"/>
+        <img
+          src="./images/profilePhoto2.svg"
+          width="300"
+          height="300"
+          alt="img"
+        />
       </span>
     </span>
   </span>

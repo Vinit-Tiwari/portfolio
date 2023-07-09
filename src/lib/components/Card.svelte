@@ -1,12 +1,11 @@
 <script>
   export let projectData = [];
-  console.log(projectData);
 </script>
 
-{#each projectData as data}
+{#each projectData as data, index}
   <span class="flex flex-col max-w-[17rem]">
     <span class="border-[#ABB2BF] border-solid border p-[1rem]">
-      <img loading="lazy" width="300" height="300" src={data.img} alt="img"/>
+      <img loading="lazy" width="300" height="300" src={data.img} alt="img" />
     </span>
 
     <span class="border-[#ABB2BF] border-solid border text-[#ABB2BF] p-[1rem]">
@@ -26,7 +25,8 @@
 
       <span class="flex gap-[1rem]">
         {#if data.github.length != 0}
-          <a href={data.github}
+          <a
+            href={data.github}
             class="text-[18px] border-2 border-solid border-[#C778DD] py-[0.3rem] px-[0.6rem] hover:bg-[#C778DD] hover:bg-opacity-20"
           >
             Github

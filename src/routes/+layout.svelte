@@ -1,5 +1,8 @@
 <script>
+  import { onMount } from "svelte";
   import "../app.postcss";
+  import { page } from "$app/stores";
+  import PageTransition from "../lib/components/PageTransition.svelte";
   let menuSelected = false;
 </script>
 
@@ -258,7 +261,9 @@
           </span>
         </span>
       {:else}
-        <slot />
+        <PageTransition url={$page.url}>
+          <slot />
+        </PageTransition>
       {/if}
     </span>
   </span>
