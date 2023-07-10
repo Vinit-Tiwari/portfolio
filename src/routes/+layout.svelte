@@ -3,6 +3,7 @@
   import "../app.postcss";
   import { page } from "$app/stores";
   import PageTransition from "../lib/components/PageTransition.svelte";
+  import {fade, fly} from "svelte/transition";
   let menuSelected = false;
 </script>
 
@@ -92,7 +93,7 @@
               <p class="text-[#C778DD]">#</p>
               home
             </a>
-            
+
             <a href="/experience" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               experience
@@ -102,7 +103,7 @@
               <p class="text-[#C778DD]">#</p>
               projects
             </a>
-            
+
             <a href="/about-me" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               about-me
@@ -172,9 +173,10 @@
 
       {#if menuSelected == true}
         <span
+        in:fly={{x:100, duration:250}}
           class="flex flex-col text-[22px] p-[1rem] pb-[5rem] justify-between text-white z-60 bg-[#282C33] absolute top-0 left-0 w-[100vw] h-[100vh] gap-[1rem] pt-[5rem]"
         >
-          <span class="flex gap-[1rem] flex-col">
+          <span class="flex gap-[1rem] text-[1.7rem] h-[80%] pl-[2rem] justify-evenly flex-col">
             <a
               href="/"
               on:click={() => (menuSelected = false)}
@@ -182,6 +184,15 @@
             >
               <p class="text-[#C778DD]">#</p>
               home
+            </a>
+
+            <a
+              href="/experience"
+              on:click={() => (menuSelected = false)}
+              class="flex cursor-pointer"
+            >
+              <p class="text-[#C778DD]">#</p>
+              experience
             </a>
 
             <a
