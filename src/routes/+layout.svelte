@@ -86,18 +86,23 @@
           </a>
 
           <span
-            class="md:flex lg:flex hidden w-full items-center max-w-[30rem] justify-evenly"
+            class="md:flex lg:flex hidden w-full items-center max-w-[40rem] justify-evenly"
           >
             <a href="/" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               home
             </a>
+            
+            <a href="/experience" class="flex cursor-pointer">
+              <p class="text-[#C778DD]">#</p>
+              experience
+            </a>
 
             <a href="/projects" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
-              works
+              projects
             </a>
-
+            
             <a href="/about-me" class="flex cursor-pointer">
               <p class="text-[#C778DD]">#</p>
               about-me
@@ -185,7 +190,7 @@
               class="flex cursor-pointer"
             >
               <p class="text-[#C778DD]">#</p>
-              works
+              projects
             </a>
 
             <a
