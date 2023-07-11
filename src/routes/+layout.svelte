@@ -100,7 +100,7 @@
             </a>
 
             <a href="/projects" class="flex cursor-pointer">
-              <p class="text-[#C778DD]">#</p>
+              <p  class="text-[#C778DD]">#</p>
               projects
             </a>
 

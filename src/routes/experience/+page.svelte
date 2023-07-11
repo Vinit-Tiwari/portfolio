@@ -38,7 +38,7 @@
           >
         </span>
 
-        <ul
+        <!-- <ul
           class="text-[1.05rem] lg:text-[1.1rem] list-outside pl-[1rem] list-disc list-inside"
         >
           <li>
@@ -55,7 +55,24 @@
             Among the 4 interns, was the only one who got offered a 2- month
             extension of internship
           </li>
-        </ul>
+        </ul> -->
+        <p>
+          During my time at Avrutti research, I worked on several prototypes of
+          an e-commerce website, before finalizing one as the main website for
+          hoysala electronics. For the prototypes, I worked as the team lead of
+          a team of 4, 2 web developers and 2 android developers. These
+          prototypes were in React with Strapi and React with Firebase before
+          finalizing Next.js and Firebase for the final website, which I made by
+          myself, under the guidance of a senior developer.
+        </p>
+        <p>
+          As an Intern, I learnt a lot through this internship. I learnt all
+          about Nextjs, how it works, and how pretty much the same jsx code can
+          get drastically faster using different rendering options. I also
+          gained a thorough understanding of tools such as Git & Github, Husky,
+          Eslint, Prettier, Tailwind, etc and how they are configured in an
+          industrial project.
+        </p>
       </span>
 
       <span class="flex flex-col lg:pl-[1rem] gap-[0.5rem]">
@@ -115,7 +132,7 @@
             class="underline decoration-solid flex gap-[0.5rem] items-center"
             href="https://drive.google.com/file/d/1iAur4r5zT1Yd99giscc792IVv3eix2nI/view"
           >
-            AWS Cloud Virtual Internship, AICTE 
+            AWS Cloud Virtual Internship, AICTE
           </a>
           <ul
             class="text-[0.97rem] lg:text-[1rem] list-disc text-[#ABB2BF] list-outside pl-[1rem] list-inside"
@@ -140,7 +157,6 @@
             href="https://www.coursera.org/account/accomplishments/specialization/SJKDJPYBR7C2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n"
           >
             AWS Fundamentals Specialization
-            
           </a>
         </li>
 
@@ -150,7 +166,6 @@
             class="flex underline decoration-solid gap-[0.5rem] items-center"
           >
             Image Processing Specialization by MathWorks
-            
           </a>
         </li>
 
