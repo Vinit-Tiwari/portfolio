@@ -10,7 +10,9 @@
       <p class="text-[#ABB2BF] text-[18px]">My professional background</p>
     </span>
 
-    <span class="flex flex-col p-[1rem] max-w-[66rem] w-full m-auto gap-[1rem]">
+    <span
+      class="flex pt-[1rem] flex-col max-w-[66rem] w-full m-auto gap-[1rem]"
+    >
       <span class="flex gap-[1rem] items-center">
         <span class="flex text-[33px]">
           <p class="text-[#C778DD]">#</p>
@@ -22,40 +24,23 @@
         />
       </span>
 
-      <span class="flex flex-col lg:pl-[1rem] gap-[0.5rem]">
+      <span
+        class="flex flex-col text-[1.15rem] border pt-[1rem] pb-[1rem] rounded-sm border-[#C778DD] border-solid lg:pl-[1rem] gap-[0.5rem]"
+      >
         <span
           class="flex lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
         >
           <span
-            class="flex text-[20px] lg:text-[27px] w-full gap-[1rem] items-center"
+            class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
           >
             Web Developer Intern, Avrutti Research
           </span>
 
-          <span
-            class="items-center pl-[0.5rem] lg:pl-[0rem] w-full max-w-[10rem] flex text-[16px] lg:text-[19px]"
+          <span class="items-center w-full max-w-[13rem] flex text-[1.3rem]"
             >10/2022 – 06/2023</span
           >
         </span>
 
-        <!-- <ul
-          class="text-[1.05rem] lg:text-[1.1rem] list-outside pl-[1rem] list-disc list-inside"
-        >
-          <li>
-            Built an entire e-commerce website using Nextjs and Firebase as a
-            solo project
-          </li>
-
-          <li>
-            Led a team of 4 members while developing the prototypes, which were
-            created using React + Firebase and React + Strapi
-          </li>
-
-          <li>
-            Among the 4 interns, was the only one who got offered a 2- month
-            extension of internship
-          </li>
-        </ul> -->
         <p>
           During my time at Avrutti research, I worked on several prototypes of
           an e-commerce website, before finalizing one as the main website for
@@ -75,44 +60,42 @@
         </p>
       </span>
 
-      <span class="flex flex-col lg:pl-[1rem] gap-[0.5rem]">
+      <span
+        class="flex text-[1.15rem] flex-col border pt-[1rem] pb-[1rem] rounded-sm border-[#C778DD] border-solid lg:pl-[1rem] gap-[0.5rem]"
+      >
         <span
           class="flex lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
         >
           <span
-            class="flex text-[20px] lg:text-[27px] w-full gap-[1rem] items-center"
+            class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
           >
-            Front-end Lead, Mindinator
+            Front-end Intern, Mindinator
           </span>
 
           <span
-            class="items-center pl-[0.5rem] lg:pl-[0rem] w-full max-w-[10rem] flex text-[16px] lg:text-[19px]"
+            class="items-center w-full flex max-w-[13rem] flex text-[1.3rem]"
             >11/2022 – 05/2023</span
           >
         </span>
 
-        <ul
-          class="text-[1.05rem] lg:text-[1.1rem] pl-[1rem] list-outside list-disc list-inside"
-        >
-          <li>
-            Built the website - mindinator.com with a team of 3 developers and a
-            UI Designer
-          </li>
-
-          <li>
-            Worked primarily on enhancing the user experience throughout the
-            website
-          </li>
-
-          <li>
-            Features a soothing front-end built in sveltekit along with an
-            efficient backend built in Node + Express,js
-          </li>
-        </ul>
+        <p>
+          For the young startup "Mindinator", I worked with 3 other developers
+          and a designer to ensure the project (Mindinator) was built as
+          required. My responsibilities were to make sure the designs translated
+          perfectly into code. I also developed a few of the games. The project
+          was made in SvelteKit, with 0 external dependencies.
+        </p>
+        <p>
+          This project provided exposure to tools used in the industry, such as
+          Github for issue and project tracking. I also learnt non-technical
+          skills, teamwork, leadership, accountability and pair programming.
+        </p>
       </span>
     </span>
 
-    <span class="flex flex-col p-[1rem] max-w-[66rem] w-full m-auto gap-[1rem]">
+    <span
+      class="flex flex-col pt-[1rem] max-w-[66rem] w-full m-auto gap-[1rem]"
+    >
       <span class="flex gap-[1rem] items-center">
         <span class="flex text-[33px]">
           <p class="text-[#C778DD]">#</p>
@@ -129,7 +112,7 @@
       >
         <li>
           <a
-            class="underline decoration-solid flex gap-[0.5rem] items-center"
+            class="underline decoration-solid w-max flex gap-[0.5rem] items-center"
             href="https://drive.google.com/file/d/1iAur4r5zT1Yd99giscc792IVv3eix2nI/view"
           >
             AWS Cloud Virtual Internship, AICTE
@@ -153,7 +136,7 @@
 
         <li>
           <a
-            class="underline decoration-solid flex gap-[0.5rem] items-center"
+            class="underline decoration-solid w-max flex gap-[0.5rem] items-center"
             href="https://www.coursera.org/account/accomplishments/specialization/SJKDJPYBR7C2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n"
           >
             AWS Fundamentals Specialization
@@ -163,7 +146,7 @@
         <li>
           <a
             href="https://www.coursera.org/account/accomplishments/specialization/GVQHTY3KKDMG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n"
-            class="flex underline decoration-solid gap-[0.5rem] items-center"
+            class="flex underline decoration-solid w-max gap-[0.5rem] items-center"
           >
             Image Processing Specialization by MathWorks
           </a>
@@ -171,7 +154,7 @@
 
         <li>
           <a
-            class="underline decoration-solid flex gap-[0.5rem] items-center"
+            class="underline decoration-solid w-max flex gap-[0.5rem] items-center"
             href="https://drive.google.com/file/d/1wvFikehRCJO1isSkP3C9Ctdn8n87opNB/view"
           >
             JavaScript Essentials by NetAcad
@@ -180,7 +163,7 @@
 
         <li>
           <a
-            class="underline decoration-solid flex gap-[0.5rem] items-center"
+            class="underline decoration-solid w-max flex gap-[0.5rem] items-center"
             href="https://drive.google.com/file/d/1RVJ0MH7r5bto2AOC-RdpKaoX7B1YgFDP/view"
           >
             Python Essentials by NetAcad

@@ -72,14 +72,4 @@
     </span>
   </span>
 
-  <span>
-    <span class="flex gap-[1rem] items-center">
-      <span class="flex text-[33px]">
-        <p class="text-[#C778DD]">#</p>
-        all-media
-      </span>
-    </span>
-
-    <span> blah blah </span>
-  </span>
 </span>
