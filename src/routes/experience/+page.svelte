@@ -1,5 +1,5 @@
 <span
-  class="text-white flex px-[0.5rem] pt-[4rem] w-full gap-[1rem] max-w-[70rem] m-auto pb-[1rem] flex-col"
+  class="text-white flex px-[0.5rem] leading-7 pt-[4rem] w-full gap-[1rem] max-w-[70rem] m-auto pb-[1rem] flex-col"
 >
   <span class="max-w-[66rem] p-[0.5rem] w-full m-auto">
     <span class="flex flex-col">
@@ -25,10 +25,10 @@
       </span>
 
       <span
-        class="flex flex-col text-[1.15rem] border pt-[1rem] pb-[1rem] rounded-sm border-[#C778DD] border-solid lg:pl-[1rem] gap-[0.5rem]"
+        class="flex flex-col text-[1.15rem] pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
       >
         <span
-          class="flex lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
+          class="flex font-semibold lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
         >
           <span
             class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
@@ -61,10 +61,10 @@
       </span>
 
       <span
-        class="flex text-[1.15rem] flex-col border pt-[1rem] pb-[1rem] rounded-sm border-[#C778DD] border-solid lg:pl-[1rem] gap-[0.5rem]"
+        class="flex text-[1.15rem] flex-col pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
       >
         <span
-          class="flex lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
+          class="flex font-semibold lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
         >
           <span
             class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
@@ -108,7 +108,7 @@
       </span>
 
       <ul
-        class="text-[1.05rem] lg:text-[1.1rem] list-outside lg:pl-[1rem] list-disc list-inside flex flex-col p-[1rem] max-w-[66rem] w-full m-auto gap-[1rem]"
+        class="text-[1.05rem] lg:text-[1.1rem] list-outside lg:pl-[1rem] list-disc list-inside flex flex-col p-[1rem] max-w-[66rem] w-full gap-[1rem]"
       >
         <li>
           <a
@@ -146,7 +146,7 @@
         <li>
           <a
             href="https://www.coursera.org/account/accomplishments/specialization/GVQHTY3KKDMG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n"
-            class="flex underline decoration-solid w-max gap-[0.5rem] items-center"
+            class="flex underline decoration-solid gap-[0.5rem] items-center"
           >
             Image Processing Specialization by MathWorks
           </a>
