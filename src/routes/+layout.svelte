@@ -64,7 +64,7 @@
     </span>
 
     <span class="flex flex-col w-full">
-      <nav class="w-full fixed bg-[#282C33] z-50">
+      <nav class="w-full fixed h-[4rem] bg-[#282C33] z-50">
         <span
           class="flex m-auto text-white items-center justify-between max-w-[90rem] p-[1rem] text-[18px]"
         >
