@@ -8,16 +8,14 @@
     class="flex flex-col lg:flex-row m-auto p-[2rem] max-w-[70rem] items-center justify-center"
   >
     <span class="flex flex-col h-full gap-[2rem] items-start">
-      <span class="flex gap-[0.3rem] flex-wrap text-[35px] font-medium">
-        Vinit is a
-        <p class="text-[#C778DD] h-min">full-stack</p>
-        <p class="text-[#C778DD] h-min">developer</p>
-        and
-        <p class="text-[#C778DD] h-min">web</p>
-        <p class="text-[#C778DD] h-min">designer</p>
+      <span class="flex gap-[0.3rem] flex-wrap max-w-[45rem] text-[35px] font-medium">
+        Hi, I'm Vinit, a 
+        <p class="text-[#C778DD] h-min">Software Engineer</p>
+        specializing in 
+        <p class="text-[#C778DD] h-min">automation, developer tooling, full-stack web systems</p>
       </span>
       <span class="text-[#ABB2BF] text-[20px] max-w-[30rem]">
-        He crafts responsive websites where technologies meet creativity
+        Code Craftsman | Automating Systems, Building Tools, and Bridging Teams
       </span>
 
       <a
@@ -58,7 +56,7 @@
         class="flex items-center gap-[0.3rem] border py-[0.2rem] pl-[1rem] pr-[4rem]"
       >
         <div class="w-[1rem] h-[1rem] bg-[#C778DD]" />
-        <span class="text-[18px]"> Currently working on Portfolio </span>
+        <span class="text-[18px]"> Currently working in Siemens </span>
       </span>
     </span>
   </span>
@@ -83,7 +81,7 @@
           />
         </svg>
 
-        With great power comes great electricity bill
+        Code is like humor. When you have to explain it, it's bad.
         <svg
           class="absolute left-[85%] top-[80%]"
           width="42"
@@ -102,7 +100,7 @@
 
       <span
         class="py-[1rem] border text-[16px] lg:text-[20px] px-[1.2rem] text-[#ABB2BF]"
-        >- Dr. Who</span
+        >- Cory House</span
       >
     </span>
 
@@ -279,15 +277,11 @@
         <span class="flex text-[17px] flex-col gap-[1rem]">
           <p class="text-[#ABB2BF]">Hello, I'm Vinit!</p>
           <p class="text-[#ABB2BF]">
-            I'm a self-taught full-stack developer based in Maharashtra, India.
-            I can develop responsive websites from scratch and raise them into
-            modern user-friendly web experiences.
+            A passionate Software Engineer with a knack for solving real-world problems through automation, developer tooling, and full-stack development.
           </p>
+
           <p class="text-[#ABB2BF]">
-            Transforming my creativity and knowledge into a websites has been my
-            passion for over 3 year. I have been helping various clients to
-            establish their presence online. I always strive to learn about the
-            newest technologies and frameworks.
+            Currently, I work at Siemens Mobility, where I independently lead automation initiatives that enhance developer productivity, streamline CI/CD workflows, and reduce manual overhead. My work ranges from writing Python automation scripts and Golang-based ETL pipelines to integrating APIs and tools like GitLab, SonarQube, and Pocketbase.
           </p>
         </span>
 

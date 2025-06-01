@@ -5,6 +5,7 @@
     <span class="flex flex-col">
       <span class="flex text-[33px]">
         <p class="text-[#C778DD]">/</p>
+        experience
       </span>
 
       <p class="text-[#ABB2BF] text-[18px]">My professional background</p>
@@ -25,6 +26,109 @@
       </span>
 
       <span
+        class="flex text-[1.15rem] flex-col pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
+      >
+        <span
+          class="flex font-semibold lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
+        >
+          <span
+            class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
+          >
+            Software Engineer, Siemens
+          </span>
+
+          <span
+            class="items-center w-full flex max-w-[13rem] flex text-[1.3rem]"
+            >08/2024 – Present</span
+          >
+        </span>
+        <p></p>
+        <p>
+          Solely manage the RTC to JIRA migration project, including leading all user meetings and script updates
+          to meet departmental needs.
+          Spearhead the CC Automation project, partnering with a DevOps engineer to implement code solutions
+          across the department for comprehensive code compliance.
+          Develop and maintain automation scripts and CI/CD pipeline optimizations for enhanced workflow
+          efficiency within the team.
+        </p>
+
+        <p>
+          In this full-time role, I've taken full ownership of critical projects, including independently managing the RTC to JIRA migration, from leading user meetings to maintaining and updating all supporting scripts based on evolving departmental needs. Collaborating closely with a DevOps engineer on the CC Automation project has allowed me to contribute to department-wide code compliance efforts through scalable and maintainable solutions. I’ve also deepened my expertise in automation and DevOps by developing scripts and optimizing CI/CD pipelines, significantly improving workflow efficiency and contributing to the overall productivity of the engineering team.
+        </p>
+      </span>
+
+      <span
+        class="flex text-[1.15rem] flex-col pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
+      >
+        <span
+          class="flex font-semibold lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
+        >
+          <span
+            class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
+          >
+            Software Engineer Intern, Siemens
+          </span>
+
+          <span
+            class="items-center w-full flex max-w-[13rem] flex text-[1.3rem]"
+            >02/2024 – 08/2024</span
+          >
+        </span>
+        <p></p>
+        <p>
+          Collaborated on the RTC to JIRA migration project under a senior developer, leading all scripting tasks,
+          attending user meetings, and updating the utility in Node.js and TypeScript for seamless data.
+          Developed automation scripts in Python and Golang, including a POC integrating Pocketbase,
+          PostgreSQL, and Golang.
+          Enhanced functionality and performance of GitLab metrics collector tool in Python, streamlining code
+          quality insights.
+        </p>
+
+        <p>
+          As an intern, I gained valuable experience working on real-world projects with industry-standard tools and practices. I deepened my understanding of Node.js and TypeScript through direct contributions to a live migration utility, while also learning how to manage requirements and expectations during client/user meetings. Additionally, I explored backend automation by writing Python and Golang scripts and experimenting with integrations using Pocketbase and PostgreSQL. I also became familiar with DevOps practices by improving the GitLab metrics collector, which taught me how data-driven tools can drive better code quality and team productivity.
+        </p>
+      </span>
+    </span>
+
+    <span
+      class="flex flex-col pt-[1rem] max-w-[66rem] w-full m-auto gap-[1rem]"
+    >
+      <span class="flex gap-[1rem] items-center">
+        <span class="flex text-[33px]">
+          <p class="text-[#C778DD]">#</p>
+          internship
+        </span>
+
+        <div
+          class="hidden lg:flex h-[0.1rem] w-[100vw] max-w-[10rem] bg-[#C778DD]"
+        />
+      </span>
+
+      <span
+        class="flex text-[1.15rem] flex-col pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
+      >
+        <span
+          class="flex font-semibold lg:gap-[1rem] flex-col lg:flex-row lg:items-center justify-between"
+        >
+          <span
+            class="flex text-[1.6rem] lg:text-[27px] w-full gap-[1rem] items-center"
+          >
+            Web Developer Intern, AV360 Academy
+          </span>
+
+          <span
+            class="items-center w-full flex max-w-[13rem] flex text-[1.3rem]"
+            >08/2023 – 10/2023</span
+          >
+        </span>
+        <p></p>
+        <p>
+          Built the company website from scratch using Learnyst, handling all aspects of design and development.
+          Created and optimized website content to enhance presentation and user engagement.
+        </p>
+      </span>
+
+      <span
         class="flex flex-col text-[1.15rem] pt-[1rem] pb-[1rem] lg:pl-[1rem] gap-[0.5rem]"
       >
         <span
@@ -40,7 +144,7 @@
             >10/2022 – 06/2023</span
           >
         </span>
-
+        <p></p>
         <p>
           During my time at Avrutti research, I worked on several prototypes of
           an e-commerce website, before finalizing one as the main website for
@@ -77,7 +181,7 @@
             >11/2022 – 05/2023</span
           >
         </span>
-
+        <p></p>
         <p>
           For the young startup "Mindinator", I worked with 3 other developers
           and a designer to ensure the project (Mindinator) was built as

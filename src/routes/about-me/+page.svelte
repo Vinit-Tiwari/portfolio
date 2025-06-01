@@ -18,15 +18,23 @@
         <span class="flex text-[17px] flex-col gap-[1rem]">
           <p class="text-[#ABB2BF]">Hello, I'm Vinit!</p>
           <p class="text-[#ABB2BF]">
-            I'm a self-taught full-stack developer based in Maharashtra, India. I
-            can develop responsive websites from scratch and raise them into
-            modern user-friendly web experiences.
+            A passionate Software Engineer with a knack for solving real-world problems through automation, developer tooling, and full-stack development.
           </p>
+
           <p class="text-[#ABB2BF]">
-            Transforming my creativity and knowledge into a websites has been my
-            passion for over 3 year. I have been helping various clients to
-            establish their presence online. I always strive to learn about the
-            newest technologies and frameworks.
+            Currently, I work at Siemens Mobility, where I independently lead automation initiatives that enhance developer productivity, streamline CI/CD workflows, and reduce manual overhead. My work ranges from writing Python automation scripts and Golang-based ETL pipelines to integrating APIs and tools like GitLab, SonarQube, and Pocketbase.
+          </p>
+
+          <p class="text-[#ABB2BF]">
+            During my journey, I've migrated large-scale data systems, developed internal utilities in Node.js and TypeScript, and even automated complex GUI testing in JavaScript. I love working across the stack, from backend scripting and database design to building clean and functional web interfaces.
+          </p>
+
+          <p class="text-[#ABB2BF]">
+            Before going full-time, I completed a 5-month internship at Siemens and an 8-month full-stack internship at Avrutti Research. I thrive in environments where I can learn fast, take ownership, and contribute meaningful impact to teams.
+          </p>
+
+          <p class="text-[#ABB2BF]">
+            When I'm not coding, you'll probably find me geeking out over performance optimization, exploring the intersection of design and logic, or out for a ride on my bike.
           </p>
         </span>
       </span>
@@ -152,11 +160,8 @@
       <span class="flex items-center justify-between gap-[1rem]">
         <span class="flex flex-wrap gap-[0.6rem] text-[16px] text-[#ABB2BF]">
           <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I like winter more than summer</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I often bike with my friends</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">My favorite movie is Interstellar</p>
+          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I love bikes and often go for long rides to clear my mind.</p>
           <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I like anime</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I am still in college</p>
-          <p class="px-[0.6rem] border-[#ABB2BF] border-solid border py-[0.3rem]">I have a sibling</p>
         </span>
 
         <span class="hidden lg:flex relative w-full max-w-[25rem] h-[20rem]">
